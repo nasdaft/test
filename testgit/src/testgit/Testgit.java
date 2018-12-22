@@ -16,6 +16,10 @@ public class Testgit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int i=0;
+        ++i;
+        System.out.println(i);
+        System.out.println("sdd");
     }
     
 }
